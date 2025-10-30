@@ -17,3 +17,5 @@ This project demonstrates GitHub UI and Git CLI features including repositories,
 
 ## 📜 License
 This project is licensed under the Apache 2.0 License – see the LICENSE file for details.
+This is a small change to test branch merging.
+
